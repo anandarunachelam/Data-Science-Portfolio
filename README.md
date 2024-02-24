@@ -15,14 +15,14 @@ I aim to have my contributions recognized through performance-based consideratio
 
 ### Work Experience
 ### 1. BUSINESS OPERATIONS MANAGER – Nokia Private Limited, Singapore                                                            April 2018 – Jan 2024
-●	Successfully utilized business analytics to develop dashboards in Power BI to identify trends, patterns, and insights to communicate with stake holders to make business decisions. 
-●	Established data driven reports and dashboards.
-●	Developed the Asia Pacific Mode of Operations handbook and ensuring it is implemented and governed uniformly across all markets.
-●	Have collaborated with business stakeholders to identify their requirements, analyze, and document business requirements.
-●	Conducted interviews, surveys, and workshops to collect data prior to finalizing the business requirements.
-●	Established the business governance framework in alignment with the business stakeholders.
-●	Significantly contributed to the seamless flow of communication among senior executives (including the Mobile Networks Business Group Leadership Team/President), business units, and stakeholders by organizing meetings, monitoring progress, and providing essential support. This facilitated the effective execution of governance activities, ensuring alignment and efficiency across various teams. 
-●	Prepared findings, reports and suggested suitable recommendations based on the insights gained. 
+*	Successfully utilized business analytics to develop dashboards in Power BI to identify trends, patterns, and insights to communicate with stake holders to make business decisions. 
+*	Established data driven reports and dashboards.
+*	Developed the Asia Pacific Mode of Operations handbook and ensuring it is implemented and governed uniformly across all markets.
+*	Have collaborated with business stakeholders to identify their requirements, analyze, and document business requirements.
+*	Conducted interviews, surveys, and workshops to collect data prior to finalizing the business requirements.
+*	Established the business governance framework in alignment with the business stakeholders.
+*	Significantly contributed to the seamless flow of communication among senior executives (including the Mobile Networks Business Group Leadership Team/President), business units, and stakeholders by organizing meetings, monitoring progress, and providing essential support. This facilitated the * effective execution of governance activities, ensuring alignment and efficiency across various teams. 
+*	Prepared findings, reports and suggested suitable recommendations based on the insights gained. 
 
 # Education
 * Advanced Diploma in Python Programming & Applied Data Analytics at SMU Executive Development
