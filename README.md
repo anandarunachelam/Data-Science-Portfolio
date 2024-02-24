@@ -3,7 +3,8 @@
 Welcome to my GitHub repository, where I proudly showcase my journey and accomplishments in Data Science. This portfolio is designed to not just tell but demonstrate my capabilities through a series of carefully curated projects. Each project within this collection serves as tangible evidence of my skills in leveraging data analysis and Machine Learning to address real-world questions. Dive into my work to see the practical application of data science principles, from conceptualization to execution, and witness the power of AI and ML through functional demonstrations.
 
 # Anand
-* 🌟 On a quest to dive deep into the realm of data governance, I'm actively seeking opportunities to contribute my energy and skills in project roles, be it as an intern or a passionate volunteer. With a robust background in Business Operations, I bring to the table a solid foundation and an eager heart ready to soak up knowledge and contribute meaningfully to data governance initiatives. 🚀
+
+🌟 On a quest to dive deep into the realm of data governance, I'm actively seeking opportunities to contribute my energy and skills in project roles, be it as an intern or a passionate volunteer. With a robust background in Business Operations, I bring to the table a solid foundation and an eager heart ready to soak up knowledge and contribute meaningfully to data governance initiatives. 🚀
 
 My journey is not driven by immediate financial rewards but by a fervent desire to learn, grow, and ultimately drive the advancement of data governance practices. I am all in for leveraging my agile 🌀 and resilient 💪 mindset to not only gain invaluable hands-on experience but also to push the maturity envelope of data governance adoption.
 
