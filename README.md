@@ -1,4 +1,6 @@
 # My Data-Science-Portfolio
+![image](Portfolio_1.jpg) 
+
 Welcome to my GitHub repository, where I proudly showcase my journey and accomplishments in Data Science. This portfolio is designed to not just tell but demonstrate my capabilities through a series of carefully curated projects. Each project within this collection serves as tangible evidence of my skills in leveraging data analysis and Machine Learning to address real-world questions. Dive into my work to see the practical application of data science principles, from conceptualization to execution, and witness the power of AI and ML through functional demonstrations.
 
 # Overview
